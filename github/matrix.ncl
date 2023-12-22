@@ -1,6 +1,8 @@
+# SPDX-FileCopyrightText: 2023 The omnibus-ncl Authors
 # SPDX-FileCopyrightText: 2023 tf-ncl
 #
 # SPDX-License-Identifier: MIT
+
 let name_of_config = fun config =>
   config
   |> std.record.values

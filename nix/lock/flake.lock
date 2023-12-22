@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "github-workflow-schema": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-RcK7gUHy588MFaCctdT4jGH8hD3HjGPju2MCOydhvKo=",
+        "type": "file",
+        "url": "https://json.schemastore.org/github-workflow.json"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://json.schemastore.org/github-workflow.json"
+      }
+    },
+    "root": {
+      "inputs": {
+        "github-workflow-schema": "github-workflow-schema"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,6 +1,8 @@
+# SPDX-FileCopyrightText: 2023 The omnibus-ncl Authors
 # SPDX-FileCopyrightText: 2023 tf-ncl
 #
 # SPDX-License-Identifier: MIT
+
 [
   { uses = "actions/checkout@v4" },
   {
