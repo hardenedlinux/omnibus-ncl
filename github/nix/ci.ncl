@@ -2,7 +2,6 @@
 # SPDX-FileCopyrightText: 2023 tf-ncl
 #
 # SPDX-License-Identifier: MIT
-
 {
   name = "CI",
   on = {
